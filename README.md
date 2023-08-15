@@ -24,7 +24,7 @@ This dataset presents various data from a car insurance company to highlight var
 ├── claim_freq                                    : How many time do customer claim insurance 
 ├── coverage_zone                                 : What is the coverage zone
 ├── claim_amt                                     : Claim amount
-└── household_income                              : Household income 
+└── household_income                              : Household income
 
 
 ## Data Cleaning
