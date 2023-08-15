@@ -42,6 +42,22 @@ The problem statements were answered using bar charts, pie charts, and line char
 ![Picture1](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/d32f4013-18c6-42ce-942b-e3f043eba69e)
 
 
+## Summary
+
+The total number of insurance claimants is 37,542.
+The average claims amount is $50,028.21.
+The average household income is $147,247.41.
+From the data visuals, we can see that Ford, Chevrolet, and Dodge brands are the car brands with the most claims frequency and amount claimed.
+Aquamarine, Indigo, and Green are the car colors with the highest claims frequency.
+We have close distributions of male and female claims frequency each starting at 49.51% and 50.49% respectively.
+The age range '70 - 79' has the least claims frequency among the ages.
+Cars made in 1950 have the highest claimed amount.
+
+## Recommendation
+
+More education and incentive packages should be created to attract more commercial car users, this is because of the wide gap between commercial car users and private car users.
+Create targeted insurance packages to fit clients in the 70 - 79 age range has they have the lowest of the age bracket.
+
 
 
 
