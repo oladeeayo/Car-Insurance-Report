@@ -8,30 +8,18 @@ This dataset presents various data from a car insurance company to highlight var
 ⏬⏬⏬
 
 **Data Dictionary**
-.
-├── id                                            : Customer's record ID
-├── birthdate                                     : Customer's Birthday (mm/dd/yyyy)
-├── marital_status                                : Customer's maritla status
-├── car_use                                       : The reason of having a car: private, commercial
-├── gender                                        : Customer's gender 
-├── kids_driving                                  : No of Customers using the same car
-├── parent                                        : Is Customer a parent?
-├── education                                     : Customer's education level 
-├── car_make                                      : Car manufacturer
-├── car_model                                     : Car's model 
-├── car_color                                     : Car's color
-├── car_year                                      : The year that the car is in manufacture
-├── claim_freq                                    : How many time do customer claim insurance 
-├── coverage_zone                                 : What is the coverage zone
-├── claim_amt                                     : Claim amount
-└── household_income                              : Household income
+
+![image](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/838c6980-02cc-4e19-a0c5-a90f62a2a7d8)
 
 
 ## Data Cleaning
 
 A few of the dataset was cleaned for better representation, the birthrate column was converted from (mm/dd/yyyy) to (dd/mm/yyyy) to allow proper representation of the claimant's birthdate.
 
-Also, a new column called age and age range was created to know the current claimant's age and sub-represented in age range categories like 20 - 29, 30 - 39, 40 - 49, 50 - 59, 60 - 69 and 70 -79
+Also, a new column called age and age range was created to know the current claimant's age and sub-represented in age range categories like 20 - 29, 30 - 39, 40 - 49, 50 - 59, 60 - 69, and 70 -79
+
+![image](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/26fd38a1-a4fa-4d83-a6ea-caa5eb4efd18)
+
 
 
 
