@@ -23,6 +23,24 @@ Also, a new column called age and age range was created to know the current clai
 
 ![image](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/26fd38a1-a4fa-4d83-a6ea-caa5eb4efd18)
 
+## Problem Statement
+
+1. What is the average claims amount per customer?
+2. What is the average claims frequency?
+3. What are the average claims per car make?
+4. What are the top claims count per car make?
+5. What are the top claims count per car color?
+6. What is the average claims amount per coverage zone?
+7. What is the average claims count per car use?
+8. What are the claims count per Education status?
+9. What are the claims count per marital status?
+10. What is the average claims amount per car year?
+
+## Data Visualization
+The problem statements were answered using bar charts, pie charts, and line charts.
+
+![Picture1](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/d32f4013-18c6-42ce-942b-e3f043eba69e)
+
 
 
 
