@@ -1,4 +1,4 @@
-![image](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/2f8c84f3-f776-4d4e-8022-7defb9a2044d)# Car-Insurance-Report
+# Car-Insurance-Report
 This report is a dashboard on car insurance claims by various individuals. It detailed claims frequency, claims amount, car brands, and age range of insurance claimers among other things.
 
 ## Introduction
