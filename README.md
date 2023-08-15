@@ -37,7 +37,7 @@ Also, a new column called age and age range was created to know the current clai
 10. What is the average claims amount per car year?
 
 ## Data Visualization
-The problem statements were answered using bar charts, pie charts, and line charts. Link [here](https://1drv.ms/x/s!AmaLcLicjjbghUBTp17qbK7V65ei?e=YGiYn4) 
+The problem statements were answered using bar charts, pie charts, and line charts. Link [here](https://1drv.ms/x/s!AmaLcLicjjbghUBTp17qbK7V65ei?e=YGiYn4)
 
 ![Picture1](https://github.com/oladeeayo/Car-Insurance-Report/assets/13979269/d32f4013-18c6-42ce-942b-e3f043eba69e)
 
